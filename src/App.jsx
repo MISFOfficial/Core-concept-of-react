@@ -5,6 +5,7 @@ function App() {
     <>
       <h1>Core Concept of react</h1>
       <p>By Muksitul Islam</p>
+      <p>Jhain</p>
     </>
   )
 }
